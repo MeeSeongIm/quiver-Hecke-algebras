@@ -1,5 +1,5 @@
 """
-Khovanov-Lauda-Rouquier (KLR) Algebras
+Quiver Hecke Algebras
 
 AUTHORS:
 
